@@ -1,0 +1,15 @@
+Status	/home/dagsdags/pipelines/rnaseq/practice/data/bam/HBR_1.bam	/home/dagsdags/pipelines/rnaseq/practice/data/bam/HBR_2.bam	/home/dagsdags/pipelines/rnaseq/practice/data/bam/HBR_3.bam	/home/dagsdags/pipelines/rnaseq/practice/data/bam/UHR_1.bam	/home/dagsdags/pipelines/rnaseq/practice/data/bam/UHR_2.bam	/home/dagsdags/pipelines/rnaseq/practice/data/bam/UHR_3.bam
+Assigned	39418	48401	42824	67611	44570	53802
+Unassigned_Unmapped	56015	68769	61398	118433	79123	98385
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	1481	1970	1663	6770	5918	5548
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	19302	22752	21192	32430	32319	25960
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	3259	4119	3720	5905	3799	4889
